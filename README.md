@@ -1,46 +1,37 @@
+# Jogo da Velha
+![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/jogo-da-velha?style=for-the-badge&label=Repo+Size&width=100)
+![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/jogo-da-velha?style=for-the-badge&label=Language+Count&width=100)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fjogo-da-velha&countColor=%23007ec6&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fjogo-da-velha)
 
-# Calculadora Simples
-![GitHub repo size](https://img.shields.io/github/repo-size/pedrocarvh/calculator?style=for-the-badge&label=Repo+Size&width=100)
-![GitHub language count](https://img.shields.io/github/languages/count/pedrocarvh/calculator?style=for-the-badge&label=Language+Count&width=100)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fcalculator&countColor=%23007ec6&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fcalculator)
+> Um simples jogo da velha desenvolvido em JavaScript.
 
-
-
-
-
-> Um aplicativo simples de calculadora desenvolvido em JavaScript.
-> 
-![Calculadora](https://github.com/pedrocarvh/calculator/blob/main/images/Calculadora.png)
+![Jogo da Velha](https://github.com/pedrocarvh/jogo-da-velha/blob/main/images/JogoDaVelha.png)
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento, e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [x]  **Implementar funções principais**
-- [x]  **Aplicar conceitos de DOM**
-- [ ]  **Implementar novas funcionalidades**
-- [ ]  **Refinar a aplicação de conceitos de DOM**
-- [ ]  **Corrigir eventuais bugs de entrada de dados**
-- [ ]  **Aprimorar a usabilidade em dispositivos móveis**
-- [ ]  **Adicionar estilos responsivos para melhor experiência visual**
-- [ ]  **Explorar operações avançadas para ampliar a funcionalidade**
+- [x]  **Implementar lógica do jogo**
+- [x]  **Adicionar estilos básicos**
+- [x]  **Implementar lógica para verificar vitória**
+- [x]  **Aprimorar a interface do usuário**
+- [x]  **Corrigir eventuais bugs no funcionamento**
+- [x]  **Implementar opção de reiniciar o jogo**
+- [x]  **Adicionar efeitos visuais para melhor experiência**
 
+## 🚀 Acessar Jogo da Velha
 
-
-## 🚀 Acessar <Calculadora>
-
-Para acessar a Calculadora, basta seguir este link: [Calculator Web](https://pedrocarvh-calculator.netlify.app/)
+Para jogar o Jogo da Velha, basta seguir este link: [Jogo da Velha Online](https://pedrocarvh-jogo-da-velha.netlify.app/)
 
 Certifique-se de ter um navegador web atualizado, como Google Chrome, Mozilla Firefox, ou Safari, para garantir uma experiência adequada.
 
 Se encontrar algum problema de exibição ou funcionalidade, verifique se está utilizando a versão mais recente do navegador ou entre em contato conosco para obter suporte.
 
+## 📫 Contribuindo para Jogo da Velha
 
-## 📫 Contribuindo para <Calculadora>
+Para contribuir com o Jogo da Velha, siga estas etapas:
 
-Para contribuir com a Calculator, siga estas etapas:
-
-1. Bifurque este [repositório](https://github.com/pedrocarvh/calculator).
+1. Bifurque este [repositório](https://github.com/pedrocarvh/jogo-da-velha).
 2. Crie um branch: `git checkout -b nome_branch`.
 3. Faça suas alterações e confirme-as: `git commit -m 'mensagem_commit'`.
 4. Envie para o branch original: `git push origin nome_branch`.
@@ -51,7 +42,6 @@ Como alternativa, consulte a [documentação do GitHub](https://docs.github.com/
 Agradecemos antecipadamente por suas contribuições!
 
 ## ![Desenvolvido por](https://img.shields.io/badge/Desenvolvido%20por-Pedro%20Carvalho-brightgreen?style=for-the-badge)
-
 
 <table>
   <tr>
@@ -65,4 +55,3 @@ Agradecemos antecipadamente por suas contribuições!
     </td>
   </tr>
 </table>
-
