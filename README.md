@@ -5,7 +5,7 @@
 
 > Um simples jogo da velha desenvolvido em JavaScript.
 
-![Jogo da Velha](https://github.com/pedrocarvh/jogo-da-velha/blob/main/images/JogoDaVelha.png)
+![Jogo da Velha](https://github.com/pedrocarvh/jogo-da-velha/blob/main/images/jogodavelha.png)
 
 ### Ajustes e melhorias
 
