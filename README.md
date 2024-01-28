@@ -4,7 +4,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fjogo-da-velha&countColor=%23007ec6&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpedrocarvh%2Fjogo-da-velha)
 
 > Um simples jogo da velha desenvolvido em JavaScript.
-![Jogo da Velha](https://github.com/pedrocarvh/jogo-da-velha/jogodavelha.png)
+![Jogo da Velha](https://github.com/pedrocarvh/jogo-da-velha/blob/main/jogodavelha.png)
 
 ### Ajustes e melhorias
 
